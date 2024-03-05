@@ -1,5 +1,12 @@
 # API de Papillon
 
+## Utilisation de l'image Docker hub
+
+Lancez le conteneur Docker :
+```bash
+    docker run -d -p 3000:3000 vilerio/papillon-api:latest
+```
+
 ## Utilisation du Dockerfile
 Si vous préférez exécuter l'API dans un conteneur Docker, suivez ces étapes :
 
