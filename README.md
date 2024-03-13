@@ -4,7 +4,7 @@
 
 Lancez le conteneur Docker :
 ```bash
-    docker run -d -p 3000:3000 vilerio/papillon-api:latest
+docker run -d -p 3000:3000 vilerio/papillon-api:latest
 ```
 
 ## Utilisation du Dockerfile

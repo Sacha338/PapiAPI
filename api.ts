@@ -1,7 +1,7 @@
 import express, { Request, Response } from 'express';
 import { join } from 'path';
 import * as fs from 'fs';
-
+const { version } = require('./data/json/api.json');
 const app = express();
 const PORT = 3000;
 
@@ -31,5 +31,5 @@ app.get('/staff/:name/photo', (req: Request, res: Response) => {
 
 
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+  console.log(`PapiAPI est joignable via le port ${PORT} en version ${version} !`);
 });
