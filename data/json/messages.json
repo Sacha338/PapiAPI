@@ -4,8 +4,12 @@
         "content": "Papillon n'est pas affilié à Index Education. Des bugs peuvent survenir lors de l'utilisation de PRONOTE sur Papillon."
     },
     "Kosmos": {
-        "title": "Important",
-        "content": "Papillon n'est pas affilié à Kosmos. Des bugs peuvent survenir lors de l'utilisation de Skolengo sur Papillon."
+        "title": "Skolengo",
+        "content": "Skolengo n’est pas encore disponible sur Papillon. Veuillez réessayer plus tard."
+    },
+    "EcoleDirecte": {
+        "title": "EcoleDirecte",
+        "content": "EcoleDirecte n’est pas encore disponible sur Papillon. Veuillez réessayer plus tard."
     },
     "warning": {
         "title": "Attention",
