@@ -40,4 +40,3 @@ npx ts-node api.ts
 - GET /team : Liste des membres de l'équipe
 - GET /messages : Liste de tous les messages de l'app
 - GET /latestVersion/plateforme : Dernière version de l'application pour la plateforme en question
-
